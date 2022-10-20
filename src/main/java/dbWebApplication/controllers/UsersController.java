@@ -1,4 +1,4 @@
-package dbWebApplication.UsersController;
+package dbWebApplication.controllers;
 
 import dbWebApplication.models.User;
 import dbWebApplication.service.UserService;
